@@ -13,3 +13,4 @@ While I did code this all myself in the sense that I typed it I was following in
 
 A Mit license has been attached to this because I created some pixel art to go along with this to change the theme.
 I did this because all I want is for people to give me credit if they use my pixel art (though it’s not very good, being my first attempt, so I am not sure why you would).
+My pixel art includes the road, the city background, the flying alien monster (modified fly from original tutorial) and giant slug (modified snail from original tutorial), the UFO, and of course the running fat man wearing a tinfoil hat.
