@@ -166,14 +166,15 @@ while (True):#game loop
         
 
 
-        #moving background, doesnt quite work. 
+        #moving background, doesnt quite work. background moves but doesnt look right.
+        ''' 
         screen.blit(sky_surface, (i, 0))
         screen.blit(sky_surface,(width+1,0))
         if (i==-width):
             screen.blit(sky_surface,(width+i,0))
             i=0
         i-=1
-        
+        '''
         
         screen.blit(ground_surface, (i, 300))
         screen.blit(ground_surface,(width+i,300))
